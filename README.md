@@ -9,6 +9,8 @@ Regras de negócio:
 
 [Link do site](https://digital-republic.vercel.app/)
 
+![plot](./src/preview.png)
+
 `A maior parte da lógica do projeto está na página src/helpers/ e na src/pages/results`
 
 ## Como usar
